@@ -1,0 +1,20 @@
+
+M,Erdem Altin,500,Oguz
+
+D,Sedat Tunc,2500,Halil
+
+
+D,Ugur Guclu,2000,Halil
+
+D,Oguz Demir,3000,Halil
+
+M,Mehmet Bilir,600,Oguz
+M,Emre Kosar,700,Ugur
+D,Mustafa Turksever,5000,Root
+
+M,Ahmet Egeli,700,Ugur
+M,Onder Bati,500,Oguz
+M,Bora Kuzey,1000,Sedat
+D,Halil Sengonca,4000,Mustafa
+D,Bahar Karaoglan,3500,Mustafa
+
